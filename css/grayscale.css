@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,700");
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700,900");
+@import url("https://fonts.googleapis.com/css?family=Open Sans:400,300,700,900");
  
 body {
   width: 100%;
@@ -59,7 +59,7 @@ a:focus {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Quicksand", "Open Sans", Helvetica, Arial, sans-serif;
   background-color: black;
 }
 .navbar-custom .navbar-toggle {
@@ -253,7 +253,7 @@ a:focus {
 }
 .btn {
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
